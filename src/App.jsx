@@ -9,7 +9,7 @@ import Layout from './components/pages/Layout';
 import Missing from './components/pages/commom/Missing';
 import ForgottenPassword from './components/login/ForgottenPassword';
 import CoursesPage from './components/pages/student/CoursesPage';
-import StudentDashboard from './components/pages/student/studentDashboard';
+import StudentDashboard from './components/pages/student/StudentDashboard';
 import LiveSessions from './components/pages/student/LiveSessions';
 import NotesPage from './components/pages/student/NotesPage';
 import ProfileSettings from './components/pages/student/ProfileSettings';
